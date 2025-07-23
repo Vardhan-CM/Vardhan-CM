@@ -1,4 +1,7 @@
-
+<!-- 1. Banner -->
+<p align="center">
+  <img src="assets/banner.jpg" alt="Introducing Myself" width="900"/>
+</p>
 ## 👋 Hello, I'm Vardhan C.M.
 Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
