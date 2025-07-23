@@ -1,15 +1,18 @@
-Hello, I'm Vardhan C.M. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
-Querying data using SQL.
-Generate reports and perform ad-hoc data analysis using SQL.
-Developing dashboards on Tableau and Looker Studio.
-Data analysis and reporting using Google Sheets and Excel.
-📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+## 👋 Hello, I'm Vardhan C.M.
+Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
-🛠️ Tools
-Language: SQL, Python
-Database: Google BigQuery, PostgreSQL, MySQL
-Visualization: Tableau, Looker Studio
-👋🏻 Connect with Me
-Linkedin: https://www.linkedin.com/in/cmvardhan/
+
+- **Target Roles**: Data Analyst | BI Analyst | SQL Developer
+  
+- **Expertise**:  
+  - Querying & optimizing data with **SQL**  
+  - Building dashboards in **Tableau** & **Power BI**  
+  - Reporting & ad-hoc analysis with **Excel** / **Google Sheets**  
+
+- **📚 Projects**
+  - Welcome to my portfolio, where I showcase my projects.
+
+- **👋🏻 Connect with Me**
+  - Linkedin: https://www.linkedin.com/in/cmvardhan/
+
